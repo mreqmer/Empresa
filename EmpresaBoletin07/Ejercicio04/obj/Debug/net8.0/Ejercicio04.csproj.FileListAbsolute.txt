@@ -28,3 +28,4 @@ C:\Users\porqu\OneDrive\Escritorio\repo\Empresa\EmpresaBoletin07\Ejercicio04\obj
 C:\Users\porqu\OneDrive\Escritorio\repo\Empresa\EmpresaBoletin07\Ejercicio04\obj\Debug\net8.0\Ejercicio04.pdb
 C:\Users\porqu\OneDrive\Escritorio\repo\Empresa\EmpresaBoletin07\Ejercicio04\obj\Debug\net8.0\Ejercicio04.genruntimeconfig.cache
 C:\Users\porqu\OneDrive\Escritorio\repo\Empresa\EmpresaBoletin07\Ejercicio04\obj\Debug\net8.0\ref\Ejercicio04.dll
+C:\Users\porqu\OneDrive\Escritorio\repo\Empresa\EmpresaBoletin07\Ejercicio04\obj\Debug\net8.0\Ejercicio04.sourcelink.json

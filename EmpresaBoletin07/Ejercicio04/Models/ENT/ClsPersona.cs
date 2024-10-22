@@ -3,10 +3,10 @@
     public class ClsPersona
     {
 
-        String Nombre { get; set; }
-        String Apellidos { get; set; }
-        int Edad {  get; set; }
-        int IdDepartamento { get; set; }
+        public String Nombre { get; set; }
+        public String Apellidos { get; set; }
+        public int Edad {  get; set; }
+        public int IdDepartamento { get; set; }
 
         public ClsPersona(string nombre, string apellidos, int edad, int idDepartamento)
         {
