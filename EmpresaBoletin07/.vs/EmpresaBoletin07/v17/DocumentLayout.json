@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\views\\home\\vistapersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\vistapersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\estructuraej04.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\estructuraej04.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\models\\ent\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\models\\ent\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\views\\home\\vistaeditar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\vistaeditar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\views\\home\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\estructuraej04.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\estructuraej04.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\models\\vm\\editarpersonavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\models\\vm\\editarpersonavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\views\\home\\vistapersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\vistapersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\models\\ent\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\models\\ent\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\models\\dal\\clslistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\models\\dal\\clslistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\models\\ent\\clsdepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\models\\ent\\clsdepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\views\\home\\listadepartamentos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\listadepartamentos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\porqu\\onedrive\\escritorio\\repo\\empresa\\empresaboletin07\\ejercicio04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,105 +66,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VistaEditar.cshtml",
-              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\VistaEditar.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio04\\Views\\Home\\VistaEditar.cshtml",
-              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\VistaEditar.cshtml",
-              "RelativeToolTip": "Ejercicio04\\Views\\Home\\VistaEditar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T21:54:38.347Z",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Ejercicio04\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Ejercicio04\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:43:48.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "ListaDepartamentos.cshtml",
+              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\ListaDepartamentos.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio04\\Views\\Home\\ListaDepartamentos.cshtml",
+              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\ListaDepartamentos.cshtml",
+              "RelativeToolTip": "Ejercicio04\\Views\\Home\\ListaDepartamentos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T20:52:01.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Ejercicio04\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Ejercicio04\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T21:30:13.301Z",
+              "WhenOpened": "2024-10-23T19:55:15.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Ejercicio04\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Ejercicio04\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:29:30.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "VistaPersonas.cshtml",
               "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\VistaPersonas.cshtml",
               "RelativeDocumentMoniker": "Ejercicio04\\Views\\Home\\VistaPersonas.cshtml",
               "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\VistaPersonas.cshtml",
               "RelativeToolTip": "Ejercicio04\\Views\\Home\\VistaPersonas.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T21:28:58.994Z",
+              "WhenOpened": "2024-10-23T19:44:22.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ClsListado.cs",
-              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\DAL\\ClsListado.cs",
-              "RelativeDocumentMoniker": "Ejercicio04\\Models\\DAL\\ClsListado.cs",
-              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\DAL\\ClsListado.cs",
-              "RelativeToolTip": "Ejercicio04\\Models\\DAL\\ClsListado.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:28:11.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClsDepartamento.cs",
-              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\ENT\\ClsDepartamento.cs",
-              "RelativeDocumentMoniker": "Ejercicio04\\Models\\ENT\\ClsDepartamento.cs",
-              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\ENT\\ClsDepartamento.cs",
-              "RelativeToolTip": "Ejercicio04\\Models\\ENT\\ClsDepartamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:23:27.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EstructuraEj04.txt",
-              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\EstructuraEj04.txt",
-              "RelativeDocumentMoniker": "Ejercicio04\\EstructuraEj04.txt",
-              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\EstructuraEj04.txt",
-              "RelativeToolTip": "Ejercicio04\\EstructuraEj04.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-22T19:22:11.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ClsPersona.cs",
               "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\ENT\\ClsPersona.cs",
               "RelativeDocumentMoniker": "Ejercicio04\\Models\\ENT\\ClsPersona.cs",
               "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\ENT\\ClsPersona.cs",
               "RelativeToolTip": "Ejercicio04\\Models\\ENT\\ClsPersona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:10:31.862Z",
+              "WhenOpened": "2024-10-23T19:43:42.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClsListado.cs",
+              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\DAL\\ClsListado.cs",
+              "RelativeDocumentMoniker": "Ejercicio04\\Models\\DAL\\ClsListado.cs",
+              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\DAL\\ClsListado.cs",
+              "RelativeToolTip": "Ejercicio04\\Models\\DAL\\ClsListado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:43:23.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditarPersonaVM.cs",
+              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\VM\\EditarPersonaVM.cs",
+              "RelativeDocumentMoniker": "Ejercicio04\\Models\\VM\\EditarPersonaVM.cs",
+              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\VM\\EditarPersonaVM.cs",
+              "RelativeToolTip": "Ejercicio04\\Models\\VM\\EditarPersonaVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:42:31.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstructuraEj04.txt",
+              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\EstructuraEj04.txt",
+              "RelativeDocumentMoniker": "Ejercicio04\\EstructuraEj04.txt",
+              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\EstructuraEj04.txt",
+              "RelativeToolTip": "Ejercicio04\\EstructuraEj04.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-23T19:35:46.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ejercicio04\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ejercicio04\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwCoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:34:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditarPersona.cshtml",
+              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\EditarPersona.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio04\\Views\\Home\\EditarPersona.cshtml",
+              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\EditarPersona.cshtml",
+              "RelativeToolTip": "Ejercicio04\\Views\\Home\\EditarPersona.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T19:29:18.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio04\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Ejercicio04\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T21:06:45.254Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,49 @@
+﻿@*
+    
+*@
+
+@{
+    
+}
+@using Ejercicio04.Models.ENT
+@using Ejercicio04.Models.VM
+@model ClsEditarPersonaVM
+
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Editar Persona</title>
+    </head>
+    <body>
+        <h1>Editar Datos de la Persona</h1>
+
+        <form method="post">
+            <input type="hidden" name="Id"  />
+
+            <p>
+                <label>Nombre:</label>
+                @Html.TextBoxFor(m => m.Nombre, new { @class = "form-control" })
+            </p>
+            <p>
+                <label>Apellido:</label>
+                @Html.TextBoxFor(m => m.Apellido, new { @class = "form-control" })
+            </p>
+            <p>
+                <label>Edad:</label>
+                @Html.TextBoxFor(m => m.Edad, new { @class = "form-control" })
+            </p>
+
+            <p>
+                <label>Departamento:</label>
+                @Html.DropDownListFor(m => m.IdDepartamento,
+                         new SelectList(Model.Departamentos, "IdDepartamento", "Nombre"),
+                         "----------------------", 
+                         new { @class = "form-control" }) 
+            </p>
+            <button type="submit">Guardar Cambios</button>
+        </form>
+    </body>
+    </html>
+
+

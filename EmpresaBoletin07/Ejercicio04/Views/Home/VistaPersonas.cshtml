@@ -1,8 +1,33 @@
 ﻿@*
-   ClsPersona persona = @ViewBag.Persona
+
 *@
 @{
-
-    <p> @ViewBag.Persona.Nombre</p>
-
+    
 }
+
+@using Ejercicio04.Models.ENT
+@model ClsPersona
+
+
+    <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>Datos de Persona</title>
+</head>
+<body>
+    <h1>Datos de la Persona</h1>
+    <br />
+    <p><strong>Nombre: </strong> @Model.Nombre </p>
+        <p><strong>Apellido: </strong> @Model.Apellido </p>
+        <p><strong>Edad: </strong> @Model.Edad </p>
+        <p><strong>Departamento: </strong> @Model.IdDepartamento</p>
+        @using (Html.BeginForm("EditarPersona", "Home", FormMethod.Post))
+        {
+            <input type="submit" name="button" class="button1" value="Editar" />
+        }
+           
+</body>
+</html>
+
+

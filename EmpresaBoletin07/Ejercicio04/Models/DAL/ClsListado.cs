@@ -8,6 +8,11 @@ namespace Ejercicio04.Models.DAL
         static List<ClsPersona> listaPersonas;
         static List<ClsDepartamento> listaDepartamentos;
 
+
+        /// <summary>
+        /// Crea una lista con personas y la devuelve
+        /// </summary>
+        /// <returns>Lista de Personas</returns>
         public static List<ClsPersona> ListadoPersonas()
         {
             listaPersonas = new List<ClsPersona>
@@ -28,6 +33,11 @@ namespace Ejercicio04.Models.DAL
             
         }
 
+
+        /// <summary>
+        /// Busca una persona en el listado con el indice aleatorio
+        /// </summary>
+        /// <returns>Un objeto persona</returns>
         public static ClsPersona sacarPersonasRandom()
         {
             Random ran = new Random();
@@ -37,7 +47,11 @@ namespace Ejercicio04.Models.DAL
             return personas[indice];
         }
 
-        static List<ClsDepartamento> ListadoDepartamentos()
+        /// <summary>
+        /// Hace una lista de Departamentos
+        /// </summary>
+        /// <returns>Devuelve el listado de Departamentos</returns>
+        public static List<ClsDepartamento> ListadoDepartamentos()
         {
             listaDepartamentos = new List<ClsDepartamento>
             {

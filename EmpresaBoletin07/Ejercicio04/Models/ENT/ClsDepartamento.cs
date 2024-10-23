@@ -2,16 +2,20 @@
 {
     public class ClsDepartamento
     {
-
-        public int Departamento {  get; set; }
+        #region Atributos de Departamento
+        public int IdDepartamento {  get; set; }
         public String Nombre { get; set; }
+        #endregion
 
-        public ClsDepartamento(int departamento, String nombre)
+
+        #region Constructor de departamento
+        public ClsDepartamento(int idDepartamento, String nombre)
         {
-            Departamento = departamento;
+            IdDepartamento = idDepartamento;
             Nombre = nombre;
            
         }
+        #endregion
 
     }
 }

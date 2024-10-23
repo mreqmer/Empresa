@@ -3,18 +3,30 @@
     public class ClsPersona
     {
 
+        #region Atributos de Persona
         public String Nombre { get; set; }
-        public String Apellidos { get; set; }
+        public String Apellido { get; set; }
         public int Edad {  get; set; }
         public int IdDepartamento { get; set; }
 
-        public ClsPersona(string nombre, string apellidos, int edad, int idDepartamento)
+        #endregion
+
+
+        #region Constructores de Persona
+
+        public ClsPersona() 
+        { 
+        }
+        
+        public ClsPersona(string nombre, string apellido, int edad, int idDepartamento)
         {
             Nombre = nombre;
-            Apellidos = apellidos;
+            Apellido = apellido;
             Edad = edad;
             IdDepartamento = idDepartamento;
         }
+
+        #endregion
 
     }
 }

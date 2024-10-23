@@ -1,5 +1,7 @@
 using Ejercicio04.Models;
 using Ejercicio04.Models.DAL;
+using Ejercicio04.Models.ENT;
+using Ejercicio04.Models.VM;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -26,15 +28,32 @@ namespace Ejercicio04.Controllers
 
         public IActionResult VistaPersonas()
         {
-            ViewBag.Persona = ClsListado.sacarPersonasRandom();
+            ClsPersona persona = ClsListado.sacarPersonasRandom();
 
-            return View();
+            return View(persona);
         }
 
-        public IActionResult VistaEditar()
+        public IActionResult EditarPersona()
         {
+
+            var persona = ClsListado.sacarPersonasRandom(); 
+   
+            var model = new ClsEditarPersonaVM(persona) 
+            {
+                Departamentos = ClsListado.ListadoDepartamentos() 
+            };
+
+            return View(model); 
+        }
+
+        public IActionResult ListaDepartamentos()
+        {
+            ViewBag.Departamentos = ClsListado.ListadoDepartamentos();
             return View();
         }
+
+        
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
