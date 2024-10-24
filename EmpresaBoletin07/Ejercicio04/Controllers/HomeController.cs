@@ -33,17 +33,12 @@ namespace Ejercicio04.Controllers
             return View(persona);
         }
 
-        public IActionResult EditarPersona()
+        [HttpPost]
+        public IActionResult EditarPersona(ClsPersona persona)
         {
-
-            var persona = ClsListado.sacarPersonasRandom(); 
-   
-            var model = new ClsEditarPersonaVM(persona) 
-            {
-                Departamentos = ClsListado.ListadoDepartamentos() 
-            };
-
-            return View(model); 
+            ClsEditarPersonaVM vm = new ClsEditarPersonaVM(persona);
+    
+            return View(vm); 
         }
 
         public IActionResult ListaDepartamentos()

@@ -1,10 +1,7 @@
 ﻿@*
-
 *@
-@{
-    
+@{   
 }
-
 @using Ejercicio04.Models.ENT
 @model ClsPersona
 
@@ -13,10 +10,10 @@
 <html lang="es">
 <head>
     <meta charset="utf-8" />
-    <title>Datos de Persona</title>
+    <title>Datos</title>
 </head>
 <body>
-    <h1>Datos de la Persona</h1>
+    <h1>Información de la Persona</h1>
     <br />
     <p><strong>Nombre: </strong> @Model.Nombre </p>
         <p><strong>Apellido: </strong> @Model.Apellido </p>
@@ -24,6 +21,10 @@
         <p><strong>Departamento: </strong> @Model.IdDepartamento</p>
         @using (Html.BeginForm("EditarPersona", "Home", FormMethod.Post))
         {
+        @Html.HiddenFor(model => model.Nombre)
+        @Html.HiddenFor(model => model.Apellido)
+        @Html.HiddenFor(model => model.Edad)
+        @Html.HiddenFor(model => model.IdDepartamento)
             <input type="submit" name="button" class="button1" value="Editar" />
         }
            
