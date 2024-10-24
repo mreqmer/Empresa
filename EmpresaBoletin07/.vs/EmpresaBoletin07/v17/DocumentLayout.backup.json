@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresaboletin07\\ejercicio04\\views\\home\\vistapersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\vistapersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresaboletin07\\ejercicio04\\views\\home\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,8 +11,24 @@
       "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\listadepartamentos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresaboletin07\\ejercicio04\\estructuraej04.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\estructuraej04.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresaboletin07\\ejercicio04\\models\\vm\\editarpersonavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\models\\vm\\editarpersonavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresaboletin07\\ejercicio04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresaboletin07\\ejercicio04\\models\\dal\\clslistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\models\\dal\\clslistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresaboletin07\\ejercicio04\\views\\home\\vistapersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D25E8F23-A79B-4D70-B8D7-520604FC6944}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\views\\home\\vistapersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,55 +50,93 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditarPersonaVM.cs",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\VM\\EditarPersonaVM.cs",
+              "RelativeDocumentMoniker": "Ejercicio04\\Models\\VM\\EditarPersonaVM.cs",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\VM\\EditarPersonaVM.cs",
+              "RelativeToolTip": "Ejercicio04\\Models\\VM\\EditarPersonaVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:14:16.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EstructuraEj04.txt",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\EstructuraEj04.txt",
+              "RelativeDocumentMoniker": "Ejercicio04\\EstructuraEj04.txt",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\EstructuraEj04.txt",
+              "RelativeToolTip": "Ejercicio04\\EstructuraEj04.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-24T11:08:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClsListado.cs",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\DAL\\ClsListado.cs",
+              "RelativeDocumentMoniker": "Ejercicio04\\Models\\DAL\\ClsListado.cs",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Models\\DAL\\ClsListado.cs",
+              "RelativeToolTip": "Ejercicio04\\Models\\DAL\\ClsListado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:57:07.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ListaDepartamentos.cshtml",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\ListaDepartamentos.cshtml",
               "RelativeDocumentMoniker": "Ejercicio04\\Views\\Home\\ListaDepartamentos.cshtml",
               "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\ListaDepartamentos.cshtml",
               "RelativeToolTip": "Ejercicio04\\Views\\Home\\ListaDepartamentos.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-24T08:55:41.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Ejercicio04\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Ejercicio04\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCQAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T08:54:28.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EditarPersona.cshtml",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\EditarPersona.cshtml",
               "RelativeDocumentMoniker": "Ejercicio04\\Views\\Home\\EditarPersona.cshtml",
               "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\EditarPersona.cshtml",
               "RelativeToolTip": "Ejercicio04\\Views\\Home\\EditarPersona.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-24T08:54:00Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "VistaPersonas.cshtml",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\VistaPersonas.cshtml",
               "RelativeDocumentMoniker": "Ejercicio04\\Views\\Home\\VistaPersonas.cshtml",
               "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaBoletin07\\Ejercicio04\\Views\\Home\\VistaPersonas.cshtml",
               "RelativeToolTip": "Ejercicio04\\Views\\Home\\VistaPersonas.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T08:53:59.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T08:53:59.08Z"
             }
           ]
         }

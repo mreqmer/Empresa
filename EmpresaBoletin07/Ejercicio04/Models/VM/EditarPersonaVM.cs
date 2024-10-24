@@ -5,7 +5,7 @@ namespace Ejercicio04.Models.VM
 {
     public class ClsEditarPersonaVM : ClsPersona
     {
-        public List<ClsDepartamento> Departamentos { get; set; }
+        public List<ClsDepartamento> Departamentos { get; }
 
        
         public ClsEditarPersonaVM(ClsPersona persona) : base(persona.Nombre, persona.Apellido, persona.Edad, persona.IdDepartamento)
