@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema05_Boletin01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67544476-662B-43D4-ACEB-7EC728618451}|Empresa_Tema05_Boletin01\\Empresa_Tema05_Boletin01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema05_boletin01\\empresa_tema05_boletin01\\components\\pages\\saludo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67544476-662B-43D4-ACEB-7EC728618451}|Empresa_Tema05_Boletin01\\Empresa_Tema05_Boletin01.csproj|solutionrelative:empresa_tema05_boletin01\\components\\pages\\saludo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67544476-662B-43D4-ACEB-7EC728618451}|Empresa_Tema05_Boletin01\\Empresa_Tema05_Boletin01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema05_boletin01\\empresa_tema05_boletin01\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67544476-662B-43D4-ACEB-7EC728618451}|Empresa_Tema05_Boletin01\\Empresa_Tema05_Boletin01.csproj|solutionrelative:empresa_tema05_boletin01\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema05_Boletin01\\Empresa_Tema05_Boletin01\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Empresa_Tema05_Boletin01\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema05_Boletin01\\Empresa_Tema05_Boletin01\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Empresa_Tema05_Boletin01\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T12:19:43.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Saludo.razor",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema05_Boletin01\\Empresa_Tema05_Boletin01\\Components\\Pages\\Saludo.razor",
+              "RelativeDocumentMoniker": "Empresa_Tema05_Boletin01\\Components\\Pages\\Saludo.razor",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema05_Boletin01\\Empresa_Tema05_Boletin01\\Components\\Pages\\Saludo.razor",
+              "RelativeToolTip": "Empresa_Tema05_Boletin01\\Components\\Pages\\Saludo.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T12:19:42.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

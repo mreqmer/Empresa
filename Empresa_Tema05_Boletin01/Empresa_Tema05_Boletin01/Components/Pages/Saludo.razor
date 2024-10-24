@@ -1,0 +1,32 @@
+﻿@page "/saludo"
+@rendermode InteractiveServer
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Hola Mundo!</h1>
+
+<input @bind-value=nombre @bind-value:event="onInput" />
+
+<br />
+
+<label role="status" id="lblTexto">
+     @texto
+</label>
+
+<br />
+
+<button class="btn btn-primary" @onclick="escribeCosas">
+    Botoncito
+</button>
+
+
+@code {
+    private String  nombre;
+    private String texto = "";
+
+    private void escribeCosas()
+    {
+        texto = "Hola " + nombre;
+    } 
+
+}
