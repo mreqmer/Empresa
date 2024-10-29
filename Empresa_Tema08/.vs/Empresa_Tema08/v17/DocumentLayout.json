@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{277290FD-E96E-4B44-8350-C9B265E3DEB5}|Ejercicio02\\Ejercicio02.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema08\\ejercicio02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{277290FD-E96E-4B44-8350-C9B265E3DEB5}|Ejercicio02\\Ejercicio02.csproj|solutionrelative:ejercicio02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277290FD-E96E-4B44-8350-C9B265E3DEB5}|Ejercicio02\\Ejercicio02.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema08\\ejercicio02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277290FD-E96E-4B44-8350-C9B265E3DEB5}|Ejercicio02\\Ejercicio02.csproj|solutionrelative:ejercicio02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277290FD-E96E-4B44-8350-C9B265E3DEB5}|Ejercicio02\\Ejercicio02.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema08\\ejercicio02\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{277290FD-E96E-4B44-8350-C9B265E3DEB5}|Ejercicio02\\Ejercicio02.csproj|solutionrelative:ejercicio02\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema08\\ejercicio01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema08\\ejercicio01\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema08\\ejercicio01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema08\\ejercicio01\\ejercicio01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\ejercicio01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ejercicio02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ejercicio02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:11:12.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:11:09.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Saludo.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio02\\Views\\Home\\Saludo.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio02\\Views\\Home\\Saludo.cshtml",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio02\\Views\\Home\\Saludo.cshtml",
+              "RelativeToolTip": "Ejercicio02\\Views\\Home\\Saludo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:07:33.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejercicio01",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Ejercicio01.csproj",
+              "RelativeDocumentMoniker": "Ejercicio01\\Ejercicio01.csproj",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Ejercicio01.csproj",
+              "RelativeToolTip": "Ejercicio01\\Ejercicio01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T12:59:45.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ejercicio01\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ejercicio01\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA1wAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:43:33.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Saludo.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Views\\Home\\Saludo.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio01\\Views\\Home\\Saludo.cshtml",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Views\\Home\\Saludo.cshtml",
+              "RelativeToolTip": "Ejercicio01\\Views\\Home\\Saludo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:42:57.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:40:47.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
