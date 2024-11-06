@@ -1,0 +1,27 @@
+﻿@*
+*@
+@{
+
+
+<h2>Listado de Misiones</h2>
+
+    @if (ViewBag.Misiones != null && ViewBag.Misiones.Count > 0)
+{
+        @foreach (var mision in ViewBag.Misiones)
+        {
+            <details style="margin-bottom: 10px; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
+                <summary style="font-weight: bold;">@mision.Titulo</summary>
+                <p style="margin-top:15px">@mision.Descripcion</p>
+                <p>Recompensa: @mision.Recompensa</p>
+            </details>
+        }
+    }
+    else if (ViewBag.Misiones == null)
+    {
+        <p>Son más de las 12, a mimir</p>
+    }
+    else
+{
+    <p>No hay misiones disponibles.</p>
+}
+}
