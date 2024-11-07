@@ -1,4 +1,6 @@
+using BL;
 using Mandaloriano.Models;
+using Mandaloriano.Models.VM;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -23,10 +25,19 @@ namespace Mandaloriano.Controllers
             return View();
         }
 
-        public IActionResult VistaMisiones()
+
+        public IActionResult VistaMisiones2()
         {
-            ViewBag.Misiones = BL.ListadosBL.ObtieneMisionesDurmiendo();
-            return View();
+            ListaMisionesVM vm = new ListaMisionesVM();
+            return View(vm);
+        }
+        [HttpPost]
+        public IActionResult VistaMisiones2(int misionesSelect)
+        {
+            ListaMisionesVM vm = new ListaMisionesVM(misionesSelect);
+            ENT.Mision misionSeleccionada = ListadosBL.ObtieneMisionBL(misionesSelect, vm.Misiones);
+            vm.Descripcion = misionSeleccionada.Descripcion;
+            return View(vm);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

@@ -1,0 +1,35 @@
+﻿@model Mandaloriano.Models.VM.ListaMisionesVM
+
+
+<h2>Lista de Misiones</h2>
+<form method="post">
+@if (Model.Misiones != null)
+{
+    <select id="misionesSelect" name="misionesSelect">
+        @foreach (var mision in Model.Misiones)
+        {
+            <option value="@mision.Id">@mision.Titulo</option>
+        }
+    </select>
+
+}
+else if(Model.Misiones == null)
+{
+    <p>Son más de las 12, a mimir.</p>
+}
+else
+
+{
+    <p>No hay misiones disponibles</p>
+    //fata poner la descripcion de la mision
+}
+
+
+<button type="submit">Mostrar Descripción</button>
+</form>
+
+@if(Model.Id > 0){
+    <p> @Model.Descripcion</p>
+}
+
+
