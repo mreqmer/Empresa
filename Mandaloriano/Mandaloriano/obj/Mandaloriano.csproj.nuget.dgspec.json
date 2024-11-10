@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\Mandaloriano.csproj": {}
+    "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\Mandaloriano\\Mandaloriano.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\BL\\BL.csproj": {
+    "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\BL\\BL.csproj",
-        "packagesPath": "C:\\Users\\mrequejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\BL\\obj\\",
+        "projectPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\BL\\BL.csproj",
+        "packagesPath": "C:\\Users\\porqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mrequejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\porqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\DAL\\DAL.csproj"
+              "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\ENT\\ENT.csproj": {
-                "projectPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\ENT\\ENT.csproj"
+              "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\ENT\\ENT.csproj": {
+                "projectPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\ENT\\ENT.csproj"
               }
             }
           }
@@ -76,20 +76,20 @@
         }
       }
     },
-    "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\DAL\\DAL.csproj": {
+    "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\mrequejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\porqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mrequejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\porqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\ENT\\ENT.csproj": {
-                "projectPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\ENT\\ENT.csproj"
+              "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\ENT\\ENT.csproj": {
+                "projectPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\ENT\\ENT.csproj"
               }
             }
           }
@@ -145,20 +145,20 @@
         }
       }
     },
-    "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\ENT\\ENT.csproj": {
+    "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\ENT\\ENT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\ENT\\ENT.csproj",
+        "projectUniqueName": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\ENT\\ENT.csproj",
         "projectName": "ENT",
-        "projectPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\ENT\\ENT.csproj",
-        "packagesPath": "C:\\Users\\mrequejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\ENT\\obj\\",
+        "projectPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\ENT\\ENT.csproj",
+        "packagesPath": "C:\\Users\\porqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\ENT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mrequejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\porqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -210,20 +210,20 @@
         }
       }
     },
-    "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\Mandaloriano.csproj": {
+    "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\Mandaloriano\\Mandaloriano.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\Mandaloriano.csproj",
+        "projectUniqueName": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\Mandaloriano\\Mandaloriano.csproj",
         "projectName": "Mandaloriano",
-        "projectPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\Mandaloriano.csproj",
-        "packagesPath": "C:\\Users\\mrequejo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\obj\\",
+        "projectPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\Mandaloriano\\Mandaloriano.csproj",
+        "packagesPath": "C:\\Users\\porqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\Mandaloriano\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mrequejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\porqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -239,11 +239,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\BL\\BL.csproj": {
-                "projectPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\BL\\BL.csproj"
+              "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\BL\\BL.csproj": {
+                "projectPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\BL\\BL.csproj"
               },
-              "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\ENT\\ENT.csproj": {
-                "projectPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\ENT\\ENT.csproj"
+              "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\ENT\\ENT.csproj": {
+                "projectPath": "C:\\Users\\porqu\\OneDrive\\Escritorio\\repo\\Empresa\\Mandaloriano\\ENT\\ENT.csproj"
               }
             }
           }
