@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mandaloriano2.Vistas.MainPage"
+             >
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Picker Title="Select a mision"
+                    ItemsSource="{Binding Misiones}"
+                    ItemDisplayBinding="{Binding Titulo}"
+                    SelectedItem="{Binding MisionSeleccionada}"
+                    IsVisible="{Binding EsVisible}">
+                    
+            </Picker>
+            <!--Falta poner bonito lo de que son mas de las 8-->
+            <Label Text="dfklnkldkgnlkdf" IsVisible="{Binding EsVisible}"></Label>
+            <Label Text="{Binding MisionSeleccionada.Descripcion}"></Label>
+            <Label Text="{Binding MisionSeleccionada.Recompensa}"></Label>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+        
+</ContentPage>
