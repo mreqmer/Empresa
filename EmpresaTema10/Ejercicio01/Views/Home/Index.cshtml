@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+   
+    <p>@ViewBag.pepe</p>
+    <form asp-action="IndexConectado" method="post">
+        <button type="submit">Conectar con la BD</button>
+
+    </form>
+
+        <p>@ViewBag.estado</p>
+   
+</div>

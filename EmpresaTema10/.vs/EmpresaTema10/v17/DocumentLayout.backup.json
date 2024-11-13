@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaTema10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80317130-00AC-42C7-A648-F551307D0096}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresatema10\\ejercicio01\\models\\databasedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80317130-00AC-42C7-A648-F551307D0096}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\models\\databasedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80317130-00AC-42C7-A648-F551307D0096}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresatema10\\ejercicio01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80317130-00AC-42C7-A648-F551307D0096}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80317130-00AC-42C7-A648-F551307D0096}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresatema10\\ejercicio01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80317130-00AC-42C7-A648-F551307D0096}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80317130-00AC-42C7-A648-F551307D0096}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresatema10\\ejercicio01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80317130-00AC-42C7-A648-F551307D0096}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80317130-00AC-42C7-A648-F551307D0096}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresatema10\\ejercicio01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80317130-00AC-42C7-A648-F551307D0096}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaTema10\\Ejercicio01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaTema10\\Ejercicio01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T10:44:10.843Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaTema10\\Ejercicio01\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Ejercicio01\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaTema10\\Ejercicio01\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Ejercicio01\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:12:05.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaTema10\\Ejercicio01\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio01\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaTema10\\Ejercicio01\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Ejercicio01\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T11:02:51.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaTema10\\Ejercicio01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ejercicio01\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaTema10\\Ejercicio01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ejercicio01\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:50:49.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "databaseDAL.cs",
+              "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaTema10\\Ejercicio01\\Models\\databaseDAL.cs",
+              "RelativeDocumentMoniker": "Ejercicio01\\Models\\databaseDAL.cs",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\EmpresaTema10\\Ejercicio01\\Models\\databaseDAL.cs",
+              "RelativeToolTip": "Ejercicio01\\Models\\databaseDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:48:42.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
