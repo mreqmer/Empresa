@@ -28,8 +28,8 @@ else
 <button type="submit">Mostrar Descripción</button>
 </form>
 
-@if(Model.Id > 0){
-    <p> @Model.Descripcion</p>
+@if(Model.Mision != null){
+    <p> @Model.Mision.Descripcion</p>
 }
 
 
