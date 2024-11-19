@@ -4,23 +4,29 @@ using ENT;
 
 namespace Mandaloriano.Models.VM
 {
-    public class ListaMisionesVM : Mision
+    public class ListaMisionesVM
     {
+        private List<Mision> misiones;
 
-        public List<Mision> Misiones { get; }
+        private Mision mision;
+
+        public List<Mision> Misiones { get { return misiones; } }
+        public Mision Mision { get { return mision; } }
 
 
         public ListaMisionesVM()
         {
 
-            Misiones = ListadosBL.ObtieneMisionesDurmiendo();
+            misiones = ListadosBL.ObtieneMisionesDurmiendo();
 
         }
+
         public ListaMisionesVM(int misionSeleccionada)
         {
 
-            Misiones = ListadosBL.ObtieneMisionesDurmiendo();
-            this.Id = misionSeleccionada;
+            misiones = ListadosBL.ObtieneMisionesDurmiendo();
+            mision = BL.ListadosBL.ObtieneMisionBL(misionSeleccionada, misiones);
+
         }
 
 
