@@ -5,7 +5,7 @@
 <form method="post">
 @if (Model.Misiones != null)
 {
-    <select id="misionesSelect" name="misionesSelect">
+        <select id="misionesSelect" name="misionesSelect" asp-for="@Model.Mision.Id">
         @foreach (var mision in Model.Misiones)
         {
             <option value="@mision.Id">@mision.Titulo</option>
@@ -21,7 +21,7 @@ else
 
 {
     <p>No hay misiones disponibles</p>
-    //fata poner la descripcion de la mision
+
 }
 
 

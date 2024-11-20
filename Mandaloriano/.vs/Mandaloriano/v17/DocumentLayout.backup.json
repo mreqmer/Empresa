@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C24C8D8A-2674-402E-95EC-91DE2F435441}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\mandaloriano\\mandaloriano\\models\\vm\\listamisionesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24C8D8A-2674-402E-95EC-91DE2F435441}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\models\\vm\\listamisionesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB9F5892-A338-4358-B312-D4D23174ED71}|DAL\\DAL.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\mandaloriano\\dal\\listadosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB9F5892-A338-4358-B312-D4D23174ED71}|DAL\\DAL.csproj|solutionrelative:dal\\listadosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C24C8D8A-2674-402E-95EC-91DE2F435441}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\mandaloriano\\mandaloriano\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24C8D8A-2674-402E-95EC-91DE2F435441}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C24C8D8A-2674-402E-95EC-91DE2F435441}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\mandaloriano\\mandaloriano\\views\\home\\vistamisiones2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C24C8D8A-2674-402E-95EC-91DE2F435441}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\views\\home\\vistamisiones2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24C8D8A-2674-402E-95EC-91DE2F435441}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\mandaloriano\\mandaloriano\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24C8D8A-2674-402E-95EC-91DE2F435441}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C24C8D8A-2674-402E-95EC-91DE2F435441}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\mandaloriano\\mandaloriano\\models\\vm\\listamisionesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24C8D8A-2674-402E-95EC-91DE2F435441}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\models\\vm\\listamisionesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9F5892-A338-4358-B312-D4D23174ED71}|DAL\\DAL.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\mandaloriano\\dal\\listadosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9F5892-A338-4358-B312-D4D23174ED71}|DAL\\DAL.csproj|solutionrelative:dal\\listadosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6044CA5-DBEE-4D15-9584-4A151AA792B6}|BL\\BL.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\mandaloriano\\bl\\listadosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,12 +82,11 @@
               "RelativeToolTip": "Mandaloriano\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:37:48.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T12:37:48.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ListadosDAL.cs",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\DAL\\ListadosDAL.cs",
               "RelativeDocumentMoniker": "DAL\\ListadosDAL.cs",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "DAL\\ListadosDAL.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:24:53.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T12:24:53.292Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "Mandaloriano\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T12:23:35.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T12:23:35.874Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "BL\\ListadosBL.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAnwBMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T13:30:48.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T13:30:48.31Z"
             },
             {
               "$type": "Document",
@@ -146,8 +142,7 @@
               "RelativeToolTip": "Mandaloriano2\\Vistas\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T11:59:22.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T11:59:22.05Z"
             },
             {
               "$type": "Document",
@@ -171,8 +166,7 @@
               "RelativeToolTip": "Mandaloriano2\\Vistas\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-08T11:59:01.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T11:59:01.635Z"
             },
             {
               "$type": "Document",
@@ -200,39 +194,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Mandaloriano\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Mandaloriano\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAhwCUAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Mandaloriano\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T13:12:57.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "VistaMisiones2.cshtml",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\Views\\Home\\VistaMisiones2.cshtml",
               "RelativeDocumentMoniker": "Mandaloriano\\Views\\Home\\VistaMisiones2.cshtml",
               "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\Views\\Home\\VistaMisiones2.cshtml",
               "RelativeToolTip": "Mandaloriano\\Views\\Home\\VistaMisiones2.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-07T11:53:36.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ListaMisionesVM.cs",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\Models\\VM\\ListaMisionesVM.cs",
               "RelativeDocumentMoniker": "Mandaloriano\\Models\\VM\\ListaMisionesVM.cs",
               "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Mandaloriano\\Mandaloriano\\Models\\VM\\ListaMisionesVM.cs",
               "RelativeToolTip": "Mandaloriano\\Models\\VM\\ListaMisionesVM.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T18:35:36.67Z",
               "EditorCaption": ""

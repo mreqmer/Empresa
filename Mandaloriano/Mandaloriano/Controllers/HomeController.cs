@@ -35,7 +35,7 @@ namespace Mandaloriano.Controllers
         public IActionResult VistaMisiones2(int misionesSelect)
         {
             ListaMisionesVM vm = new ListaMisionesVM(misionesSelect);
-            
+
             return View(vm);
         }
 
