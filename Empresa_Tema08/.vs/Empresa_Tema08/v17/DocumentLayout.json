@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema08\\ejercicio01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{277290FD-E96E-4B44-8350-C9B265E3DEB5}|Ejercicio02\\Ejercicio02.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema08\\ejercicio02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{277290FD-E96E-4B44-8350-C9B265E3DEB5}|Ejercicio02\\Ejercicio02.csproj|solutionrelative:ejercicio02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\views\\home\\saludo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema08\\ejercicio01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|c:\\users\\mrequejo\\desktop\\repos\\empresa\\empresa_tema08\\ejercicio01\\ejercicio01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3166510F-FFA2-4AFF-84F2-99DD424807F3}|Ejercicio01\\Ejercicio01.csproj|solutionrelative:ejercicio01\\ejercicio01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio02\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Ejercicio02\\Controllers\\HomeController.cs",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio02\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Ejercicio02\\Views\\Home\\Index.cshtml",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Saludo.cshtml",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio02\\Views\\Home\\Saludo.cshtml",
               "RelativeDocumentMoniker": "Ejercicio02\\Views\\Home\\Saludo.cshtml",
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Ejercicio01\\Controllers\\HomeController.cs",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Saludo.cshtml",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Views\\Home\\Saludo.cshtml",
               "RelativeDocumentMoniker": "Ejercicio01\\Views\\Home\\Saludo.cshtml",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Ejercicio01\\Views\\Home\\Index.cshtml",
@@ -131,7 +131,8 @@
               "RelativeToolTip": "Ejercicio01\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T12:40:47.373Z"
+              "WhenOpened": "2024-10-29T12:40:47.373Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -38,11 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -54,8 +58,7 @@
               "RelativeToolTip": "Ejercicio02\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:11:12.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T13:11:12.954Z"
             },
             {
               "$type": "Document",
@@ -80,21 +83,19 @@
               "RelativeToolTip": "Ejercicio02\\Views\\Home\\Saludo.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T13:07:33.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T13:07:33.608Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Ejercicio01",
+              "Title": "Ejercicio01.csproj",
               "DocumentMoniker": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Ejercicio01.csproj",
               "RelativeDocumentMoniker": "Ejercicio01\\Ejercicio01.csproj",
               "ToolTip": "C:\\Users\\mrequejo\\Desktop\\repos\\Empresa\\Empresa_Tema08\\Ejercicio01\\Ejercicio01.csproj",
               "RelativeToolTip": "Ejercicio01\\Ejercicio01.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-29T12:59:45.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T12:59:45.666Z"
             },
             {
               "$type": "Document",
@@ -106,8 +107,7 @@
               "RelativeToolTip": "Ejercicio01\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIA1wAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T12:43:33.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T12:43:33.978Z"
             },
             {
               "$type": "Document",
@@ -119,8 +119,7 @@
               "RelativeToolTip": "Ejercicio01\\Views\\Home\\Saludo.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T12:42:57.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T12:42:57.804Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "Ejercicio01\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T12:40:47.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T12:40:47.373Z"
             }
           ]
         }
